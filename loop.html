@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <style media="screen">
+            body{
+                text-align: center;
+                min-height: 100vh;
+                background: #2bcbba;
+                overflow: hidden;
+            }
+            svg{
+                max-width: 30em;
+                stroke:#0fb9b1;
+                stroke-linecap:round;
+                fill:none;
+                stroke-width: 7%;
+                margin-top: 200px;
+            }
+            svg use{
+                stroke: #fff;
+                animation: animate 2s linear infinite;
+            }
+            @keyframes animate {
+                to{
+                    stroke-dashoffset: 0px;
+                }
+            }
+
+        </style>
+    </head>
+    <body>
+        
+        <svg viewbox="-2000 -1000 4000 2000">
+            <path id="stroke" d="M354-354A500 500 0 1 1 354 354L-354-354A500 500 0 1 0-354 354z"></path>
+            <use xlink:href="#stroke" stroke-dasharray="1570 5143" stroke-dashoffset="6713px"></use>
+
+        </svg>
+        <h1> INFINITE LOOP ANIMATION </h1>
+
+    </body>
+</html>

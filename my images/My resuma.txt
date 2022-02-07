@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Resume Landing page Design </title>
+        <meta name="viewpoint" content="width=device-width,initial-scale=1.0">
+        <body>
+            <div class="profile-img">
+                <img src="file:///C:/Users/preeet/Downloads/WhatsApp%20Image%202022-02-03%20at%208.28.16%20PM.jpeg">
+               
+            </div>
+            
+            <div class="profile-info">
+                <h1> SARBJOT SINGH </h1>
+                <h3> Career Objective </h3>
+                <P class="about"> Work for an organization which provides me the
+                    opportunity to improve my skills and knowledge to
+                    growth along with the organization.  </P>
+                <div class="Social-Media">
+                    <img src="file:///C:/Users/preeet/OneDrive/sarbjot/images/image7.png.png">
+                    <img src="file:///C:/Users/preeet/OneDrive/sarbjot/images/image8.png.png">
+                    <img src="file:///C:/Users/preeet/OneDrive/sarbjot/images/image10.png.png">
+            </div>
+
+            <h2> Expertise </h2> 
+            <div class="expertise">
+            <img src="file:///C:/Users/preeet/OneDrive/sarbjot/images/image11.png.jpg">
+            <p> Web Development </p>
+            <small> Web development is the work involved in developing a Web site for the Internet or an intranet. </small>
+            </div>
+            <div class="expertise">
+            <img src="file:///C:/Users/preeet/Pictures/Screenshots/Python-Symbol.png">
+            <p> python </p>
+            <small> Python is an interpreted high-level general-purpose programming language.   </small>
+            </div>
+            <div class="expertise">
+            <img src="file:///C:/Users/preeet/OneDrive/sarbjot/images/image13.png.jpg">
+            <p> Graphics  Designing </p>     
+            <small> Graphic design is the profession and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. </small>
+            </div>
+            <div class="expertise">
+            <img src="file:///C:/Users/preeet/OneDrive/sarbjot/images/image23.png">
+            <p> Object Oriented Programing </p>
+            <small> C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes". </small>
+            </div>
+            <div class="expertise">
+            <img src="file:///C:/Users/preeet/Pictures/Screenshots/wordpress-logo-stacked-rgb.png">
+            <p> Wordpress</p>
+            <small> WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database.   </small>
+            </div>
+                        <h1>Education</h1>
+            
+                        <h3> S.V.N.D.A.V Senior secondary school Pandori</h3>
+                        <h5> 10th </h5>
+                        <h5> 2018</h5>
+                        <a href="file:///C:/Users/preeet/Downloads/WhatsApp%20Image%202021-10-24%20at%202.58.41%20PM.jpeg"><img src="file:///C:/Users/preeet/Downloads/WhatsApp%20Image%202021-10-24%20at%202.58.41%20PM.jpeg" width="100px"></a>
+                        
+                        <h3> Heights Academy </h3>
+                        <h5> 12th </h5>
+                        <h5> 2020</h5>
+                        <a href="file:///C:/Users/preeet/Downloads/IMAGE00.PNG.jpeg"><img src="file:///C:/Users/preeet/Downloads/IMAGE00.PNG.jpeg" width="100px"></a> 
+
+                        <h3>Lovely  Professional University</h3>
+                        <h5> BTECH CSE </h5>
+                        
+
+                        
+
+                        
+
+
+                <h2> My Small Project Work </h2>
+                <div class="projects">
+                    <a href="file:///C:/Users/preeet/Desktop/resuma.html"><img src="file:///C:/Users/preeet/OneDrive/sarbjot/images/image14.png.jpg"/></a>
+                    <a href="file:///C:/Users/preeet/Desktop/website%20iphone1%20-%20Copy.html"><img src="file:///C:/Users/preeet/OneDrive/sarbjot/images/image15.png.jpg"/></a>
+                    <a href="file:///C:/Users/preeet/Desktop/footer%20bar3.html"><img src="https://www.wpbeginner.com/wp-content/uploads/2016/10/floatingbarwp-180x180.jpg"/></a>
+                    <a href="file:///C:/Users/preeet/Pictures/Screenshots/Loginpage1.html"><img src="file:///C:/Users/preeet/Pictures/Screenshots/image1111.png"></a>
+                    <a href="file:///C:/Users/preeet/OneDrive/knowledge%20bubble/loop.html"><img src="file:///C:/Users/preeet/Pictures/Screenshots/Screenshot%20(546).png"></a>
+                   
+                </div>
+                <h1> Personal Profile</h1>
+                <h3> Date of Birth:20/9/2002</h3>
+                <h3> Material Status:Single</h3>
+                <h3> Nationality:Indian</h3>
+                <h3> Known Language:English,Hindi,Punjabi</h3>
+                
+                <div class="form-box">
+                    <h2> Contact Me</h2>
+                    <form>
+                        <div class="input-group">
+                            <input type="text" placeholder="First Name"> 
+                            <input type="text" placeholder="Last Name"> 
+                        </div>
+                        <div class="input-group">
+                            <input type="Number" placeholder="Phone Number"> 
+                            <input type="Email" placeholder="Email"> 
+                        </div>
+                        <div class="text-area">
+                            <textarea rows="4" placeholder="your Message"></textarea>
+                        </div>
+                        <button type="submit" class="submit-btn">SEND MESSAGE <a href="file:///C:/Users/preeet/Pictures/Screenshots/image33.png"</button>
+                    </form>
+                </div>
+
+                    <div class="contact">
+                        <img src="file:///C:/Users/preeet/OneDrive/sarbjot/images/image21.png"><span>Sarbjot2092002@gmail.com</span>
+                        <img src="file:///C:/Users/preeet/OneDrive/sarbjot/images/image19.png.png"><span>8264530590</span>
+                    </div>
+                
+
+                 
+        
+            <style>
+                *
+                {
+                    margin: 0;
+                    padding: 0;
+                    box-sizing: border-box;
+                }
+                body 
+                {
+                    background: #efefef;
+                    font-family: sans-serif;
+                }
+                .profile-img
+                {
+                    width: 40%;
+                    float: right;
+                }
+                .profile.img img 
+                {
+                    width: 100%;
+                    height: 100%;
+                }
+                .about 
+                {
+                    margin-left: 15px;
+                }
+                .profile-info 
+                {
+                    width: 60%;
+                    height: 100vh;
+                    float: left;
+                    padding: 0 30px;
+                    overflow: scroll;
+                    overflow-x: hidden;
+                }
+                .profile-info::-webkit-scrollbar 
+                {
+                    width: 0px;
+
+                }
+                .profile-info h1 
+                {
+                    margin-top: 50px;
+                    margin-bottom: 30px;
+                }
+                .Social-Media img 
+                {
+                    height: 30px;
+                    margin-right: 15px;
+                }
+                .Social-Media 
+                {
+                    margin-top: 20px;
+                    margin-left: 15px;
+                }
+                .profile-info h2 
+                {
+                    margin-top: 50px;
+                    margin-bottom: 15px;
+                }
+                .expertise img 
+                {
+                    height: 70px;
+                    margin: 5px;
+                }
+                .expertise 
+                {
+                    display: inline-block;
+                    width: 28%;
+                    padding: 30px 10px;
+                    margin: 2%;
+                    text-align: center;
+                    box-shadow: 0 0 15px 1px rgba(37, 73, 214,0.18);
+                    background: #fff;
+                }
+                .expertise small 
+                {
+                    padding-top: 10px;
+                    display:block;
+                }
+                .projects img
+                {
+                    width: 31%;
+                    padding: 4px;
+                    margin-bottom: 5px;
+                    margin-left: 5px;
+                }
+                .form-box 
+                {
+                    margin-top: 30px;
+                }
+                .input-group input 
+                {
+                    width: 45%;
+                    border: 0;
+                    outline: none !important;
+                    padding: 10px;
+                    margin: 2%;
+                    display: inline-block;
+                    background: #fff;
+                }
+                .text-area textarea 
+                {
+                    width: 95%;
+                    border: 0;
+                    outline: none !important;
+                    padding: 10px;
+                    margin: 2%;
+                    background: #fff;
+                }
+                .submit-btn 
+                {
+                    border: 0;
+                    outline: none !important;
+                    padding: 10px;
+                    margin: 2%;
+                    background: #2ab0ff; 
+                    cursor: pointer;
+                    color:#fff
+
+
+                }
+                .contact img
+                {
+                    width: 30px;
+                    margin: -5px 10px;
+                }
+                .contact span 
+                {
+                    margin: 0%;
+                }
+                .contact
+                {
+                    margin: 5% 0 5% 25%;
+                    width: 65%;
+                }
+
+                    
+
+                
+                
+
+
